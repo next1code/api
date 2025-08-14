@@ -2,8 +2,8 @@
    "users": [
       {
          "id": 1,
-         "firstname": "میلاد",
-         "lastname": "بهرامی",
+         "name": "میلاد",
+         "family": "بهرامی",
          "email": "milad@gmail.com",
          "gender": "male",
          "inRell": true
@@ -11,7 +11,7 @@
       {
          "id": 2,
          "name": "علی",
-         "lastname": "حسینی",
+         "family": "حسینی",
          "email": "ali@gmail.com",
          "gender": "male",
          "inRell": false
@@ -19,7 +19,7 @@
       {
          "id": 3,
          "name": "مهسا",
-         "lastname": "عباسی",
+         "family": "عباسی",
          "email": "mahsa@gmail.com",
          "gender": "female",
          "inRell": true
@@ -27,7 +27,7 @@
       {
          "id": 4,
          "name": "مهرداد",
-         "lastname": "بهرامی",
+         "family": "بهرامی",
          "email": "mehrdad@gmail.com",
          "gender": "male",
          "inRell": false
@@ -35,7 +35,7 @@
       {
          "id": 5,
          "name": "مرصاد",
-         "lastname": "رستمی",
+         "family": "رستمی",
          "email": "mersad@gmail.com",
          "gender": "male",
          "inRell": false
@@ -43,7 +43,7 @@
       {
          "id": 6,
          "name": "امیر",
-         "lastname": "عظیمی",
+         "family": "عظیمی",
          "email": "amir@yahoo.com",
          "gender": "male",
          "inRell": false
@@ -51,7 +51,7 @@
       {
          "id": 7,
          "name": "ستار",
-         "lastname": "احمدی",
+         "family": "احمدی",
          "email": "sattar@yahoo.com",
          "gender": "male",
          "inRell": true
@@ -59,7 +59,7 @@
       {
          "id": 8,
          "name": "محمد",
-         "lastname": "یوسفی",
+         "family": "یوسفی",
          "email": "mohammad@gmail.com",
          "gender": "male",
          "inRell": true
@@ -67,7 +67,7 @@
       {
          "id": 9,
          "name": "مهدی",
-         "lastname": "احمدی",
+         "family": "احمدی",
          "email": "mahdi@gmail.com",
          "gender": "male",
          "inRell": false
@@ -75,7 +75,7 @@
       {
          "id": 10,
          "name": "میلاد",
-         "lastname": "احمدی",
+         "family": "احمدی",
          "email": "miladahmadi@gmail.com",
          "gender": "male",
          "inRell": true
@@ -83,7 +83,7 @@
       {
          "id": 11,
          "name": "پریسا",
-         "lastname": "احمدی",
+         "family": "احمدی",
          "email": "parisa@yahoo.com",
          "gender": "female",
          "inRell": false
@@ -91,7 +91,7 @@
       {
          "id": 12,
          "name": "زهرا",
-         "lastname": "قاسمی",
+         "family": "قاسمی",
          "email": "zahra@gmail.com",
          "gender": "female",
          "inRell": true
@@ -99,7 +99,7 @@
       {
          "id": 13,
          "name": "الهه",
-         "lastname": "خسروی",
+         "family": "خسروی",
          "email": "alahe@gmail.com",
          "gender": "female",
          "inRell": true
@@ -107,7 +107,7 @@
       {
          "id": 14,
          "name": "سحر",
-         "lastname": "خسروی",
+         "family": "خسروی",
          "email": "sahar@gmail.com",
          "gender": "female",
          "inRell": true
@@ -115,7 +115,7 @@
       {
          "id": 15,
          "name": "رضا",
-         "lastname": "راستی",
+         "family": "راستی",
          "email": "reza-rasti@gmail.com",
          "gender": "male",
          "inRell": true
@@ -123,7 +123,7 @@
       {
          "id": 16,
          "name": "رضا",
-         "lastname": "نصیری",
+         "family": "نصیری",
          "email": "reza00@gmail.com",
          "gender": "male",
          "inRell": false
@@ -131,7 +131,7 @@
       {
          "id": 17,
          "name": "سالار",
-         "lastname": "رستمی",
+         "family": "رستمی",
          "email": "salar@gmail.com",
          "gender": "male",
          "inRell": false
@@ -139,7 +139,7 @@
       {
          "id": 18,
          "name": "عباس",
-         "lastname": "قاسمی",
+         "family": "قاسمی",
          "email": "abbas@gmail.com",
          "gender": "male",
          "inRell": true
@@ -147,15 +147,15 @@
       {
          "id": 19,
          "name": "مهیا",
-         "lastname": "قاسمی",
+         "family": "قاسمی",
          "email": "mahya@yahoo.com",
          "gender": "female",
          "inRell": false
       },
       {
          "id": 20,
-         "firstName": "فرشاد",
-         "lastname": "احمدی",
+         "name": "فرشاد",
+         "family": "احمدی",
          "email": "farshad@gmail.com",
          "gender": "male",
          "inRell": true
